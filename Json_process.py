@@ -2,7 +2,7 @@ import os
 import glob
 import shutil
 import argparse
-# run like python Json_process.py -ip /Users/christianodaniel/Documents/work/Json_Process/Folders -d /Users/christianodaniel/Documents/work/Json_Process/Destination
+# run like python Json_process.py -ip /Users/christianodaniel/Documents/work/Json_Process/Folders -os Windows -d /Users/christianodaniel/Documents/work/Json_Process/Destination
 parser = argparse.ArgumentParser(description='Process some integers.')
 
 parser.add_argument(
